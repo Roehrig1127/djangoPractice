@@ -2,4 +2,5 @@ token
 
 djangotutorial/mysite/__pycache__/
 djangotutorial/polls/__pycache__/
+djangotutorial/polls/migrations/__pycache__/
 venv/
