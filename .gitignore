@@ -1,5 +1,6 @@
 token
 
+django-polls/dist/
 djangotutorial/mysite/__pycache__/
 djangotutorial/polls/__pycache__/
 djangotutorial/polls/migrations/__pycache__/
